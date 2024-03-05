@@ -12,7 +12,7 @@ export default function Index() {
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
       <h1>Welcome to konsult</h1>
 
-      <h1 className="text-2xl font-extrabold">HELLO </h1>
+      <h1 className="text-2xl font-extrabold">consolt </h1>
     </div>
   );
 }
